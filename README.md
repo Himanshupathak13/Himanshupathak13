@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer focused on building scalable web applications</h3>
 
 <div align="right">
-  <img src="https://i.imgflip.com/65efzo.gif" alt="Coding Animation" width="300" align="right"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Coding Animation" width="300" align="right"/>
 </div>
 
 ### About Me
